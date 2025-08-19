@@ -1,0 +1,13 @@
+{
+  "name": "Together Mining",
+  "symbol": "TMINE",
+  "description": "Together Mining (TMINE) unites miners and investors in a tokenized ecosystem, converting rewards into TMINE with a community hash farm launching Jan 2026 for greater profitability than traditional mining.",
+  "image": "https://raw.githubusercontent.com/kwatts22/solanainfo/refs/heads/main/image.jpg",
+  "external_url": "https://togethermining.xyz",
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/tminetoken"
+    }
+  ]
+}
