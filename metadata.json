@@ -5,9 +5,19 @@
   "image": "https://raw.githubusercontent.com/kwatts22/solanainfo/refs/heads/main/image.jpg",
   "external_url": "https://togethermining.xyz",
   "attributes": [
-    {
-      "trait_type": "Telegram",
-      "value": "https://t.me/tminetoken"
-    }
-  ]
+    { "trait_type": "Telegram", "value": "https://t.me/tminetoken" }
+  ],
+  "extensions": {
+    "website": "https://togethermining.xyz",
+    "telegram": "https://t.me/tminetoken"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/kwatts22/solanainfo/refs/heads/main/image.jpg",
+        "type": "image/jpeg"
+      }
+    ]
+  }
 }
