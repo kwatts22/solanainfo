@@ -1,0 +1,13 @@
+{
+  "name": "Together Mining",
+  "symbol": "TMINE",
+  "description": "Just a cool little coin, just for me.",
+  "image": "https://raw.githubusercontent.com/kwatts22/solanainfo/refs/heads/main/image.jpg",
+  "external_url": "https://togethermining.xyz",
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/tminetoken"
+    }
+  ]
+}
